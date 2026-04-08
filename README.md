@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jyoti Indore  
 
-🚀 **Aspiring Software Developer | AI & IoT Enthusiast | Problem Solver**
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;AI+%26+IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things)
 
 ---
 
@@ -8,9 +9,9 @@
 - 🎓 Computer Science student passionate about building real-world solutions  
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and IoT systems**  
 - 🌱 Currently working on **Smart Helmet System & Pollution Analysis using Fuzzy Logic**  
-- 🛠️ Skilled in **Python, Data Structures, and core programming concepts**  
+- 🛠️ Skilled in **Python, Data Structures, and problem-solving**  
 - 🎯 Preparing for **Software Developer roles & placements**  
-- ⚡ Strong focus on **innovation, efficiency, and impactful technology**
+- ⚡ Focused on **innovation and impactful technology**
 
 ---
 
@@ -20,8 +21,6 @@
 
 🌫️ **Pollution Level Analysis using Fuzzy Logic**  
 👉 https://github.com/YOUR_USERNAME/pollution-analysis  
-
-💡 *(More projects coming soon...)*  
 
 ---
 
@@ -52,8 +51,13 @@
 
 ---
 
-## 🏆 Achievements & Activity
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jyoti-Indore&theme=radical&no-frame=true&margin-w=5)
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jyoti-Indore&theme=radical&no-frame=true)
 
 ---
 
@@ -68,7 +72,4 @@
 ---
 
 ⭐️ *"Code. Learn. Build. Repeat."*
-![Visitor Count](https://komarev.com/ghpvc/?username=Jyoti-Indore&color=blue)
-[![](https://visitcount.itsvg.in/api?id=Jyoti-Indore&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
