@@ -17,10 +17,10 @@
 
 ## 🚀 Featured Projects
 🔐 **Smart Helmet Safety System**  
-👉 https://github.com/YOUR_USERNAME/smart-helmet  
+👉 https://github.com/Jyoti-Indore/smart-helmet  
 
 🌫️ **Pollution Level Analysis using Fuzzy Logic**  
-👉 https://github.com/YOUR_USERNAME/pollution-analysis  
+👉 https://github.com/Jyoti-Indore/pollution-analysis  
 
 ---
 
@@ -52,8 +52,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Jyoti-Indore/Jyoti-Indore/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🏆 Achievements
