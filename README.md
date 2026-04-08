@@ -51,7 +51,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Jyoti-Indore/Jyoti-Indore/blob/output/github-contribution-grid-snake.gif)
 ---
