@@ -53,7 +53,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Jyoti-Indore/Jyoti-Indore/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/Jyoti-Indore/Jyoti-Indore/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 🏆 Achievements
